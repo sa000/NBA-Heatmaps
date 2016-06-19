@@ -4,3 +4,4 @@ This repo is to generate heatmaps for nba teams based off teams win percentage a
 
 This uses pandas, seaborn and matlob plot to generate the below plots.
 
+[[https://github.com/sa000/NBA-Heatmaps/blob/master/wins/winmatrix.png|alt=Win Image]]
